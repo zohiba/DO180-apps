@@ -1,6 +1,9 @@
 {
   "name": "nodejs-helloworld",
   "version": "1.0.0",
+  "scripts" :{
+  "start": "node app.js"
+},
   "description": "Hello World!",
   "main": "app.js",
   "author": "Red Hat Training",
